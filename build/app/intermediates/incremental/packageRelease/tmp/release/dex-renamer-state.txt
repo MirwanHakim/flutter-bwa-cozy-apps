@@ -1,0 +1,4 @@
+#Wed Jan 05 10:09:33 ICT 2022
+base.0=D\:\\Flutter Project\\bwa_cozy\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
