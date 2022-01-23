@@ -4,7 +4,6 @@ import 'package:bwa_cozy/theme.dart';
 import 'package:bwa_cozy/widgets/facility_items.dart';
 import 'package:bwa_cozy/widgets/rating_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class DetailPage extends StatelessWidget {
