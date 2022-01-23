@@ -1,4 +1,0 @@
-#Sun Jan 23 19:36:33 WIB 2022
-base.0=/Users/mirwanhakim/Documents/flutter project/flutter-bwa-cozy-apps/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
